@@ -1,4 +1,4 @@
-# CZ1016---NLP-Assigment-
+# CZ1016 - NLP Assignment
 
 This assignment uses smsdata to building a tree-based binary classifier distinguishing spam messages from good messages.
 
